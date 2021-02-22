@@ -1,5 +1,7 @@
 # uOttaHack4
-uOttaHack 4 Submission
+
+## Update
+We received the Best Hardware Hack sponsored by Digi-Key at uOttaHack 4.
 
 ## Inspiration
 
